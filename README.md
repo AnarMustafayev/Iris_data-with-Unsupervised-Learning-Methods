@@ -1,0 +1,2 @@
+This repository contains code for a machine learning project that focuses on clustering analysis of the Iris dataset using KMeans and hierarchical clustering algorithms. The dataset used for this project is the famous Iris dataset, a classic dataset in machine learning and statistics. It contains measurements of 150 iris flowers from three different species.
+Altough dataset contains target column (Species), I just practiced unsupervised learning methods and using this target column I evaluated my models performance.
